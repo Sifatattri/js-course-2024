@@ -1,1 +1,13 @@
-console.log('hello world');
+// console.log('hello world');
+// const accountId= 12345;
+// console.log(accountId);
+// console.log(accountId);
+// const accountEmail= "git@gmail.com";
+// const accountPassword= 1601;
+// const accountCity= "Chandigarh";
+// console.table([accountId, accountCity, accountEmail, accountPassword]);
+let name= "sifat";
+let age=22;
+let isLoggedIn= false;
+console.log(typeof null);
+console.log(typeof undefined);
